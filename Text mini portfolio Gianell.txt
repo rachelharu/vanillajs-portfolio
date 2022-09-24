@@ -70,27 +70,20 @@ Intermediate
 React
 Intermediate
 
-Bootstrap
-Intermediate
 
-Git
-Intermediate
 
 *****************
 
-PHP
+express
 Intermediate
 
-MySQL
+mongodb
 Advance
 
-Firebase
+Node Js
 Intermediate
 
-Python
-Basic
-
-Node Js
+Git
 Intermediate
 
 ========== FOOTER ==========
