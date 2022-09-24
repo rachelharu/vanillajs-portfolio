@@ -5,3 +5,4 @@
 
 
 /*=============== SCROLL REVEAL ANIMATION ===============*/
+console.log('test');
