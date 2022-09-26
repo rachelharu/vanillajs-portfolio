@@ -453,10 +453,9 @@ body.dark-theme {
 }
 
 @media screen and (min-width: 776px) {
-  /* .project__content,
-  .skills__content {
+  .projects__content {
     grid-template-columns: repeat(2, 332px);
-  } */
+  }
   .skills__content {
     justify-content: center;
     column-gap: 3rem;

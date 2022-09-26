@@ -5,3 +5,9 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
+## Things to do 
+
+- add content. photos, descriptions, about me. 
+- possibly add more animations?
+- tweak styling to "look better" 
+
