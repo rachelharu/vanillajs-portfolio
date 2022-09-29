@@ -456,8 +456,8 @@ body.dark-theme {
 
 @media screen and (min-width: 776px) {
   .projects__content {
-    /* grid-template-columns: repeat(2, 332px); */
-    justify-content: center;  
+    grid-template-columns: repeat(2, 332px);
+    /* justify-content: center;   */
     /* *^^^ TURN OFF CENTER TURN ON GRID COLUMNS IF MORE THAN ONE PROJECT */
   }
   .skills__content {
