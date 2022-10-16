@@ -237,6 +237,7 @@ body.dark-theme {
   align-items: center;
   justify-content: center;
   column-gap: 1rem;
+  margin-top: 15px;
 }
 
 /*=============== BUTTONS ===============*/
@@ -518,3 +519,31 @@ body.dark-theme {
     margin: 4.5rem 0 -2.5rem;
   }
 }
+
+.sybian::before {  
+  transform: scaleX(0);
+  transform-origin: bottom right;
+}
+
+.sybian:hover::before {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+.sybian::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  inset: 0 0 0 0;
+  background: rgb(172, 129, 230);
+  z-index: -1;
+  transition: transform .3s ease;
+}
+
+.sybian {
+  position: relative;
+  font-size: 5rem;
+}
+
+
