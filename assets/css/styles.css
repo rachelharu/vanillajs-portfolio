@@ -145,6 +145,10 @@ body.dark-theme {
 }
 
 /*=============== PROFILE ===============*/
+.bio {
+  text-align:center;
+}
+
 .profile {
   position: relative;
   padding-top: 3.5rem;
